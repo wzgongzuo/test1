@@ -6,6 +6,7 @@ public class Test1 {
 		String string="abc";
 
 		int a=10;
-
+        System.out.println(a+a);
+        System.out.println("nimabi");
 	}
 }
